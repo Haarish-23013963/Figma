@@ -69,9 +69,10 @@ Figma
 </div>
 ```
 ## OUTPUT:
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![Screenshot 2024-11-13 195813](https://github.com/user-attachments/assets/19c72eaa-3474-4573-be4d-fec8519aa7a6)
+![Screenshot 2024-11-13 195821](https://github.com/user-attachments/assets/3322a4f4-ef27-4a6f-a043-a0a00f4545a1)
+![Screenshot 2024-11-13 195833](https://github.com/user-attachments/assets/25d42f2b-10c6-4819-8d2d-e259a7145d1d)
+
 
 
 ## RESULT:
